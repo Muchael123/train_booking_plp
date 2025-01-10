@@ -40,5 +40,5 @@ The database schema includes the following tables:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd train-booking-database
+   git clone https://github.com/Muchael123/train_booking_plp.git
+   cd train_booking_plp
